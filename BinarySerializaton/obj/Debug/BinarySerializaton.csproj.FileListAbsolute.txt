@@ -1,0 +1,11 @@
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\bin\Debug\BinarySerializaton.exe.config
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\bin\Debug\BinarySerializaton.exe
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\bin\Debug\BinarySerializaton.pdb
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\bin\Debug\Assign24Lib.dll
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\bin\Debug\Assign24Lib.pdb
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\obj\Debug\BinarySerializaton.csproj.AssemblyReference.cache
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\obj\Debug\BinarySerializaton.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\obj\Debug\BinarySerializaton.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\obj\Debug\BinarySerializaton.csproj.CopyComplete
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\obj\Debug\BinarySerializaton.exe
+E:\Dotnet\Phase1\Day21\Assignment24\BinarySerializaton\obj\Debug\BinarySerializaton.pdb

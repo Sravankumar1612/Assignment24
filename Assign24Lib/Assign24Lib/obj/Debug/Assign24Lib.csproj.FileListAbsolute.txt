@@ -1,0 +1,6 @@
+E:\Dotnet\Phase1\Day21\Assignment24\Assign24Lib\Assign24Lib\bin\Debug\Assign24Lib.dll
+E:\Dotnet\Phase1\Day21\Assignment24\Assign24Lib\Assign24Lib\bin\Debug\Assign24Lib.pdb
+E:\Dotnet\Phase1\Day21\Assignment24\Assign24Lib\Assign24Lib\obj\Debug\Assign24Lib.csproj.AssemblyReference.cache
+E:\Dotnet\Phase1\Day21\Assignment24\Assign24Lib\Assign24Lib\obj\Debug\Assign24Lib.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase1\Day21\Assignment24\Assign24Lib\Assign24Lib\obj\Debug\Assign24Lib.dll
+E:\Dotnet\Phase1\Day21\Assignment24\Assign24Lib\Assign24Lib\obj\Debug\Assign24Lib.pdb
